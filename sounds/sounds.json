@@ -22,7 +22,7 @@
       "suit/skull_reyes_on"
     ],
     "category": "player"
-   },
+  },
   "modifier.chargedbeam": {
     "sounds": [
       "suit/penance_stare"
@@ -31,13 +31,13 @@
   },
   "modifier.blade.enable": {
     "sounds": [
-      "suit/chain_enable"
+      "suit/blade/enable"
     ],
     "category": "player"
   },
   "modifier.blade.disable": {
     "sounds": [
-      "suit/chain_disable"
+      "suit/blade/disable"
     ],
     "category": "player"
   }
