@@ -1,10 +1,4 @@
 {
-  "modifier.chargedbeam": {
-    "sounds": [
-      "suit/penance_stare"
-    ],
-    "category": "player",
-  },
     "suit.skull.johnny.off": {
     "sounds": [
       "suit/skull_johnny_off"
