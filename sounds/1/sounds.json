@@ -1,10 +1,18 @@
 {
-  "suit.skull.johnny.off": {
+  "modifier.chargedbeam": {
+    "sounds": [
+      "suit/penance_stare"
+    ],
+    "category": "player",
+    "suit.skull.johnny.off": {
     "sounds": [
       "suit/skull_johnny_off"
     ],
     "category": "player"
   },
+
+
+  
   "suit.skull.johnny.on": {
     "sounds": [
       "suit/skull_johnny_on"
@@ -22,11 +30,6 @@
       "suit/skull_reyes_on"
     ],
     "category": "player"
-  },
-  "modifier.chargedbeam": {
-    "sounds": [
-      "suit/penance_stare"
-    ],
-    "category": "player"
   }
+ }
 }
