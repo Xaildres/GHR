@@ -2,13 +2,19 @@
 
   "suit.skull.off": {
     "sounds": [
-      "suit/skull_off"
+      {
+        "name": "suit/skull_off",
+        "pitch": 0.8
+      }
     ],
     "category": "player"
   },
   "suit.skull.on": {
     "sounds": [
-      "suit/skull_on"
+      {
+        "name": "suit/skull_on",
+        "pitch": 1.2
+      }
     ],
     "category": "player"
   }
