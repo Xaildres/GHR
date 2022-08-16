@@ -23,6 +23,12 @@
     ],
     "category": "player"
   },
+  "suit.skull.reyes.rage": {
+    "sounds": [
+      "suit/skull_reyes_rage"
+    ],
+    "category": "player"
+  },
   "modifier.chargedbeam": {
     "sounds": [
       "suit/penance_stare_johnny"
