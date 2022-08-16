@@ -28,5 +28,17 @@
       "suit/penance_stare"
     ],
     "category": "player"	
+  },
+  "modifier.blade.enable": {
+    "sounds": [
+      "suit/chain_enable"
+    ],
+    "category": "player"
+  },
+  "modifier.blade.disable": {
+    "sounds": [
+      "suit/chain_disable"
+    ],
+    "category": "player"
   }
 }
