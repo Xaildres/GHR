@@ -1,0 +1,15 @@
+{
+
+  "random.fire.off": {
+    "sounds": [
+      "suit/skull_off"
+    ],
+    "category": "player"
+  },
+  "random.fire.on": {
+    "sounds": [
+      "suit/skull_on"
+    ],
+    "category": "player"
+  }
+}
