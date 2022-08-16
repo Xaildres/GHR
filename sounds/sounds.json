@@ -23,7 +23,7 @@
     ],
     "category": "player"
   },
-  "modifier.penance.stare": {
+  "modifier.chargedbeam": {
     "sounds": [
       "suit/penance_stare"
     ],
