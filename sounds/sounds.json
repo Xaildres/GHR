@@ -25,7 +25,13 @@
   },
   "modifier.chargedbeam": {
     "sounds": [
-      "suit/penance_stare"
+      "suit/penance_stare_johnny"
+    ],
+    "category": "player"	
+  },
+  "modifier.chargedbeam2": {
+    "sounds": [
+      "suit/penance_stare_reyes"
     ],
     "category": "player"	
   },
