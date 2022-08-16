@@ -1,14 +1,25 @@
 {
-
-  "suit.skull.off": {
+  "suit.skull.johnny.off": {
     "sounds": [
-      "suit/skull_off"
+      "suit/skull_johnny_off"
     ],
     "category": "player"
   },
-  "suit.skull.on": {
+  "suit.skull.johnny.on": {
     "sounds": [
-      "suit/skull_on"
+      "suit/skull_johnny_on"
+    ],
+    "category": "player"
+  },
+  "suit.skull.reyes.off": {
+    "sounds": [
+      "suit/skull_reyes_off"
+    ],
+    "category": "player"
+  },
+  "suit.skull.reyes.on": {
+    "sounds": [
+      "suit/skull_reyes_on"
     ],
     "category": "player"
   }
