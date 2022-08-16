@@ -10,9 +10,6 @@
     ],
     "category": "player"
   },
-
-
-  
   "suit.skull.johnny.on": {
     "sounds": [
       "suit/skull_johnny_on"
