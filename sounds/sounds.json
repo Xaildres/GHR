@@ -22,5 +22,11 @@
       "suit/skull_reyes_on"
     ],
     "category": "player"
+   },
+  "modifier.chargedbeam": {
+    "sounds": [
+      "suit/penance_stare"
+    ],
+    "category": "player"	
   }
 }
