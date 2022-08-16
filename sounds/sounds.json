@@ -1,12 +1,12 @@
 {
 
-  "random.fire.off": {
+  "suit.skull.off": {
     "sounds": [
       "suit/skull_off"
     ],
     "category": "player"
   },
-  "random.fire.on": {
+  "suit.skull.on": {
     "sounds": [
       "suit/skull_on"
     ],
